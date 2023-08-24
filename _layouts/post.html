@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    <i><span style="color: #b8b8b8;">&nbsp;Posted on  &nbsp;{{ page.date | date: "%B %e, %Y" }}</span> </i>
+  </div>
+  <div class="disclaimer-note">
+      Please note that this blog post has not been peer-reviewed. If you have any concerns or suggestions, please do not hesitate to contact me.
+  </div>
+</article>
