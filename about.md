@@ -13,7 +13,9 @@ I am double majoring in <a href="https://math.washington.edu/"> Mathematics </a>
 
 ***Research Interests***: stochastic processes, time series analysis, stochastic optimization, Markov Chain Monte Carlo, Variational Bayesian methods, and their applications in finance.
 
-Aside from academics, I have a number of hobbies and interests. I enjoy playing guitar and piano, and I used to play violin when I was younger. I'm thinking about picking it back up again. I also like playing computer games, table tennis (my playing style is all about spin!), and reading non-fiction books.
+Aside from academics, I have a number of hobbies and interests. I enjoy playing guitar and piano, and I used to play violin when I was younger. And I'm thinking about picking it back up again. I also like playing computer games (Skyrim is my favorite), table tennis (my playing style is all about spin!), and reading non-fiction books (eg. An Imaginary Tale).
+I also serve as the education lead at the Algorithmic Trading Club and the peer review lead at the Washington Undergraduate Mathematics Journal club at the University of Washington.
+
 
 
  If you have any questions or just want to connect, don't hesitate to reach out to me. You can find my email and social media handles below. And if you'd like to view my CV, just send me a message and I'd be happy to share it with you.

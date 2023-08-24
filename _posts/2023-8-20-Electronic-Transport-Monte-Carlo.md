@@ -4,7 +4,7 @@ title: Improving Electronic Conductance Calculations with a Monte Carlo Approach
 categories: [Project]
 ---
 
-This is a part of research I am current working with Ethan Lister under supervision of Dr. Baruch Feldman at the University of Washington.
+This is a part of research I am current working with Ewan Lister under supervision of Dr. Baruch Feldman at the University of Washington.
 
 This post covers an overview of the research in informal language.
 
